@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    namespace = "com.bramestorm.bassanglertracker"
+    namespace = "com.bramestorm.bassanglertrackermanualmode"
     compileSdk = 35
 
 
     defaultConfig {
-        applicationId = "com.bramestorm.bassanglertracker"
+        applicationId = "com.bramestorm.bassanglertrackermanualmode"
         minSdk = 23
         targetSdk = 34
         versionCode = 1

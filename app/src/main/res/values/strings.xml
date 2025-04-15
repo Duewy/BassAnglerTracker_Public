@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Catch Call</string>
+    <string name="app_name">Catch Call Manual Mode</string>
     <string name="app_image_description">SoftLock Culling System with Voice Controlled Culling</string>
     <string name="enter_catch_lbs_and_ozs">Enter Catch (Lbs and ozs)</string>
     <string name="img_setup">Set Up Page</string>
@@ -213,6 +213,7 @@
     <string name="weight_format_kg">%.2f kg</string>
     <string name="length_format_cm">%.1f cm</string>
     <string name="date_iso"> %1$04d-%2$02d-%3$02d</string>
+    <string name="fun_day_fishing">Fun Day Fishing</string>
 
 
     //species

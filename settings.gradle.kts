@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BassAnglerTracker"
+rootProject.name = "BassAnglerTrackerManualMode"
 include(":app")
